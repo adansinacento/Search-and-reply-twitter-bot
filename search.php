@@ -62,7 +62,7 @@ function AddIds($arr, $res, $ut){ // Fnc to fill up the array of tweets to reply
 
 function UpdateDB($_id){
   	include 'sql_connect.php';
-  	$sql = 'UPDATE Twitter_Bots SET last_id = "' . $_id . '" WHERE bot_name = "BOT_NAME";'; // UPDATE on the DB
+  	$sql = 'UPDATE Twitter_Bots SET last_id = "' . $_id . '", last_uptade = CURRENT_TIMESTAMP WHERE bot_name = "BOT_NAME";'; // UPDATE on the DB
   	mysqli_query($link, $sql);
 }
 
