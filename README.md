@@ -3,7 +3,7 @@ A twitter bot that uses [CodeBird](https://github.com/jublonet/codebird-php) to 
 
 **[AdanSinAcento](http://www.twitter.com/adansinacento)** 2017.  
 Any questions on my twitter.  
-CronJob execution is _recomended,_ run it every 5 minutes or so.  
+CronJob execution of the **[search.php](search.php)** file is _recomended,_ run it every 5 minutes or so.   
 To start using the bot you'll need to 
 * Create the database and the tables (the definition is in the **[Twitter_Bots.sql](Twitter_Bots.sql)** file)
 * Insert a row in the table, set your bot name in the **bot_name** column and any recent tweet id in the **last_id** column
