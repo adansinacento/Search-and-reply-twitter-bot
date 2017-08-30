@@ -1,5 +1,5 @@
 # Search-and-reply-twitter-bot
-A twitter bot that uses [CodeBird](https://github.com/jublonet/codebird-php) to search for tweets containing a specfic string and reply to them an image
+A twitter bot that uses [CodeBird](https://github.com/jublonet/codebird-php) to search for tweets containing a specfic string and reply to them with an image
 
 **[AdanSinAcento](http://www.twitter.com/adansinacento)** 2017.  
 Any questions on my twitter.  
