@@ -12,3 +12,7 @@ To start using the bot you'll need to
 
   
 This code (just like any other code ever written) can be optimized, please feel free to modify it and do as many pull request as you think the code can use.  
+
+**UPDATE: Twitter has suspended several accounts using this code**
+ apparently bots arent allowed to interact with accounts unless the human account made contact first. I'm leaving the code here as it is, but if you are planning to use it have this in mind and be carefull.     
+ Thanks!
