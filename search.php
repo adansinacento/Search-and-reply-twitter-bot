@@ -2,7 +2,7 @@
 /*
 * busca.php
 * AdanSinAcento 2017
-* When in boubt -> tweet me @Adansinacento
+* When in doubt -> HMU @Adansinacento
 */
 require_once('codebird.php'); //CodeBird file inclusion
 define('QUERY', 'Your-string-to-be-searched'); // define the string to be searched
